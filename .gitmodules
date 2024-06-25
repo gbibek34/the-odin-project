@@ -7,3 +7,6 @@
 [submodule "rock-paper-scissors"]
 	path = rock-paper-scissors
 	url = https://github.com/gbibek34/rock-paper-scissors.git
+[submodule "etch-a-sketch"]
+	path = etch-a-sketch
+	url = https://github.com/gbibek34/etch-a-sketch.git
