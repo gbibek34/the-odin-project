@@ -1,3 +1,6 @@
 [submodule "odin-recipes"]
 	path = odin-recipes
 	url = https://github.com/gbibek34/odin-recipes.git
+[submodule "top-landing-page"]
+	path = top-landing-page
+	url = https://github.com/gbibek34/top-landing-page.git
